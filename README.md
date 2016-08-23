@@ -13,7 +13,7 @@
 ### Homework Workflow
 
 1. Fork the repository for the exercise/project (found under [github.com/unioncollege-webtech](https://github.com/unioncollege-webtech)).
-1. Clone the repository to your computer.
+1. Clone the repository to your computer!!!
 1. Open the `index.html` file in a browser and open the Developer Tools.
 1. Modify the files to complete your solution.
 1. Refresh the `index.html` page to see the results, and repeat.
